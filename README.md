@@ -1,28 +1,13 @@
 ```markdown
 # 📸 NAFIZ Android Camera Hack Tool
 
-<div align="center">
-  
-![Version](https://img.shields.io/badge/Version-1.0-green)
-![Platform](https://img.shields.io/badge/Platform-Termux-blue)
-![Python](https://img.shields.io/badge/Python-3.x-yellow)
-
-</div>
-
----
-
 ## 👨‍💻 **ডেভেলপার**
-```
 
 নাম: Nafiz Sheikh
 টেলিগ্রাম: @Nafizsheikh0x
 চ্যানেল: https://t.me/nafizsheikhtech
 
-```
-
----
-
-## 📥 **ইনস্টলেশন কমান্ড**
+কপি করে রান করুন
 
 ```bash
 git clone https://github.com/nafiz1000x/NAFIZ_Android_Camera-Hacked.git
@@ -30,9 +15,6 @@ git clone https://github.com/nafiz1000x/NAFIZ_Android_Camera-Hacked.git
 
 ```bash
 cd NAFIZ_Android_Camera-Hacked
-`
-
-```bash
 python nafiz_camera_hack.py
 ```
 
